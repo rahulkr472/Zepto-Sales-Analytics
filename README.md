@@ -1,6 +1,6 @@
 # Zepto-Sales-Analytics
 
-![zepto_logo](zepto_logo_svg.png)
+![zepto_logo](Zepto_Logo.svg_.png)
 
 PowerBI Analysis
 •	Built an interactive Power BI dashboard for Zepto sales and campaign analysis
