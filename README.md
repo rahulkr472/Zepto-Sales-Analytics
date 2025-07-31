@@ -1,6 +1,6 @@
 # Zepto-Sales-Analytics
 
-!("C:\Users\rahul\Downloads\Python Project\Zepto\Zepto_Logo.svg_.png")
+![zepto_logo](zepto_logo_svg.png)
 
 PowerBI Analysis
 •	Built an interactive Power BI dashboard for Zepto sales and campaign analysis
