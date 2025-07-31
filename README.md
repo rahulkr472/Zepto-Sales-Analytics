@@ -6,13 +6,17 @@
 
 PowerBI Analysis
 •	Built an interactive Power BI dashboard for Zepto sales and campaign analysis
+
 •	 Tracked key metrics: orders, revenue, discounts, influencer activity
+
 •	 Visuals included:
  – Revenue by city
  – Top-selling products
  – Category-wise orders
  – Influencer impact on sales
+ 
 •	Used DAX to calculate and analyze discount effectiveness
+
 •	Added dynamic slicers for city, category, and influencer filters
  Delivered actionable insights for pricing, product focus, and campaign strategy
 
